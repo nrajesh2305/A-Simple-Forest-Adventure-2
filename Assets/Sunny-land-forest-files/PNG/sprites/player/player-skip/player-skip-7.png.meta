@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player-skip-7_0: -6292526075247674840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

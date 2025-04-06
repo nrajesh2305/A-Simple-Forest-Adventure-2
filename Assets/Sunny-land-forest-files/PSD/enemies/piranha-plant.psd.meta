@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      piranha-plant_0: 7783476963485394590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

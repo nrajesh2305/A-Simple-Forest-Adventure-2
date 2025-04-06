@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player-duck-3_0: 746886775922641249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

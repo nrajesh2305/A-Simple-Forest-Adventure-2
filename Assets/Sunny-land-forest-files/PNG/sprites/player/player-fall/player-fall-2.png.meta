@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player-fall-2_0: 1705981210098055626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
