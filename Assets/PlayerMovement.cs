@@ -20,7 +20,6 @@ public class PlayerMovement : MonoBehaviour
     private string currentState;
     private const string PLAYER_IDLE = "player_idle";
     private const string PLAYER_RUN = "player_run";
-    private const string PLAYER_JUMP = "player_jump";
     private const string PLAYER_FALL = "player_fall";
 
 
@@ -81,7 +80,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
                 isJumpPressed = false;
-                ChangeAnimationState(PLAYER_JUMP);
             }
         }
     }
